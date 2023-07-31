@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I am Preet Sukhadiya, a passionate Java and PHP de
 
 Feel free to connect with me on these platforms:
 
-[<img align="left" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30px" />](https://www.linkedin.com/in/preet-sukhadiya/)
+-[<img align="left" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30px" />](https://www.linkedin.com/in/preet-sukhadiya/)
 [<img align="left" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30px" />](https://instagram.com/preet-sukhadiya)
 
 ## 🌱 Current Focus
