@@ -1,7 +1,5 @@
 # Preet Sukhadiya - Java & PHP Developer
 
-![Profile Banner](link/to/your/banner/image.png)
-
 ## 👋 Hello, World!
 
 Welcome to my GitHub profile! I am Preet Sukhadiya, a passionate Java and PHP developer. I love building web applications, solving complex problems, and contributing to open-source projects.
