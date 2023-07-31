@@ -1,9 +1,14 @@
-# Preet Sukhadiya - Java & PHP Developer
+# Preet Sukhadiya
 
 ## 👋 Hello, World!
 
 Welcome to my GitHub profile! I am Preet Sukhadiya, a passionate Java and PHP developer. I love building web applications, solving complex problems, and contributing to open-source projects.
 
+## 🎓 Education
+
+- Bachelor Of Engineering, Computer Engineering - June 2024
+- L.D. College of Engineering, Ahmedabad, Gujarat, India
+  
 ## 🔧 Technologies & Tools
 
 - Programming Languages: Java, PHP
@@ -13,21 +18,12 @@ Welcome to my GitHub profile! I am Preet Sukhadiya, a passionate Java and PHP de
 - Tools: Git, Eclipse, VS Code
 - Other: JSON, XML
 
-## 📚 Projects
+## 📬 Connect with Me
 
-Here are some of the key projects I've worked on:
+Feel free to connect with me on these platforms:
 
-1. **Project One**
-   - Description: Briefly describe your project.
-   - Technologies: List the technologies used.
-   - GitHub Repository: [Link to the repository](link-to-repository)
-
-2. **Project Two**
-   - Description: Briefly describe your project.
-   - Technologies: List the technologies used.
-   - GitHub Repository: [Link to the repository](link-to-repository)
-
-Feel free to explore more of my repositories to see a variety of projects and code samples!
+- [LinkedIn](https://www.linkedin.com/in/preet-sukhadiya)
+- [Instagram](https://www.instagram.com/preet-sukhadiya)
 
 ## 🌱 Current Focus
 
